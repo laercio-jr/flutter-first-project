@@ -1,6 +1,6 @@
 # payflow
 
-A new Flutter project.
+Meu primeiro projeto em flutter, usando os conhecimentos adquiridos na Rocketseat.}
 
 ## Getting Started
 
